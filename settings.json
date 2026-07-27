@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CockKing.aternos.me",
+    "ip": "CockKing.aternos.me:62977",
     "port": 62977,
     "version": "",
     "try-creative": false
